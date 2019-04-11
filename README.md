@@ -1,3 +1,13 @@
+https://rkloecker.github.io/redux-counter/
+
+# redux-counter
+
+### A simple redux counter app
+
+### [Deployment with gh-pages](https://rkloecker.github.io/redux-counter/)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
